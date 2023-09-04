@@ -1,0 +1,5 @@
+[theme]
+headless = true
+base="light"
+primaryColor="#02020c"
+secondaryBackgroundColor="#a2c8de"
